@@ -17,6 +17,9 @@ Here’s a quick look at what I bring:
 📉 Visualization tools: Experienced with Power BI and Tableau
 
 ✨Strengths: Detail-oriented, organized, and always eager to learn and improve
+
+## Projects 🖼
+Welcome to my portfolio, where I showcase hands-on [projects](#projects) that turn data into meaningful insights.
 <!--
 **EleniAndr/EleniAndr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
