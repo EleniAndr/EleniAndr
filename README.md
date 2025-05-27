@@ -1,6 +1,6 @@
-## Hello, I'm Eleni 👋
+# Introducing myself 👩🏻‍💼
 
-I hold a Master's degree in Physics, and through my academic journey, I discovered a new passion—working with data. I love uncovering patterns, finding meaning in numbers, and turning raw data into insights that tell a story.
+Hello, I'm Eleni 👋 I hold a Master's degree in Physics, and through my academic journey, I discovered a new passion—working with data. I love uncovering patterns, finding meaning in numbers, and turning raw data into insights that tell a story.
 
 Here’s a quick look at what I bring:
 
