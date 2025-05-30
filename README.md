@@ -9,6 +9,7 @@ Hello, I'm Eleni 👋 I hold a Master's degree in Physics, and through my academ
 - Skilled in data cleaning, transformation, and insight generation
   
 📉 Visualization tools: Experienced with Power BI and Tableau
+
 ✨Strengths: Detail-oriented, organized, and always eager to learn and improve
 
 ## Projects 🖼
