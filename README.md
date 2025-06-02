@@ -12,7 +12,7 @@ Hello, I'm Eleni 👋 I hold a Master's degree in Physics, and through my academ
 ✨Strengths: Detail-oriented, organized, and always eager to learn and improve
 
 ## Projects 🖼
-Welcome to my portfolio, where I showcase hands-on [projects](#projects) that turn data into meaningful insights.
+Welcome to my portfolio, where I showcase hands-on [projects](#-elenis-portfolio) that turn data into meaningful insights.
 <!--
 **EleniAndr/EleniAndr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
